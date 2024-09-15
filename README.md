@@ -19,3 +19,6 @@ The project covers several time series analysis techniques, including data prepr
 
 - **Adjustable Parameters**: Parameters such as seasonal periods, window sizes for moving averages, and ARIMA model orders (`p`, `d`, `q`) are set to low values to optimize for quick analysis. These can be adjusted for more accurate and detailed results in practical applications.
 - **Educational Focus**: The project is configured to run efficiently in a learning environment. Adjust parameters as needed to explore different scenarios and outcomes.
+
+## Disclaimer
+This project is intended for educational purposes only. It is not a financial advice tool.
