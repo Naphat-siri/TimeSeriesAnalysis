@@ -1,6 +1,6 @@
 # Time Series Analysis Project
 
-This project demonstrates basic time series analysis techniques using Python, focusing on understanding data trends and forecasting. The analysis is designed for educational purposes with optimized settings to save computational resources and time.
+This project demonstrates basic time series analysis techniques on S&P500 using Python, focusing on understanding data trends and forecasting. The analysis is designed for educational purposes with optimized settings to save computational resources and time.
 
 ## Overview
 
